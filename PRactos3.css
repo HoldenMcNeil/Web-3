@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+    color: grey
+}
+li {
+    display: inline-block;
+}
+.flg {
+    text-align: center;
+}
+#one {
+    text-align: center;
+    background: url(fu.jpg) no-repeat 100%;
+    background-size: 200px;
+    width:  300px;
+    height: 200px;
+}
+figcaption {
+    position: absolute;
+    color: red
+}
+em {
+    display: block;
+    text-align: center;
+    bottom: 370px;
+    margin-right: 120px; 
+    position: absolute; 
+}
+#knopka1 {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 200px;
+    right: 300px;
+}
+#knopka {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 200px;
+    left: 340px;
+}
+#two {
+    text-align: center;
+    background: url(fds.jpg) no-repeat 100%;
+    background-size: 200px;
+    width:  300px;
+    height: 200px;
+}
